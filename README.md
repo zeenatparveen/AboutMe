@@ -6,8 +6,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and Drawing🎨🖌️
 :e-mail: How to reach me:
 * [zeenatparveen45@gmail.com](zeenatparveen45@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/zeenat-parveen/)
-
-
+### Languages and Tools that I usually work with: ###
 <p align="left">
   <img src="python.png" width="40">
   <img src="c.png" width="40" height="40">
